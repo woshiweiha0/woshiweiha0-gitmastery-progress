@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769067536.882712,
+    "completed_at": 1769067539.327879,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769069558.862618,
+    "completed_at": 1769069562.229371,
+    "comments": [
+      "Could not find commit with SHA '8366758c1dae896c54e869efd6c06478267a3cdb'"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1769063700.504533,
+    "completed_at": 1769063701.986028,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769018939.303383,
+    "completed_at": 1769018941.088667,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769019374.139046,
+    "completed_at": 1769019375.75492,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
