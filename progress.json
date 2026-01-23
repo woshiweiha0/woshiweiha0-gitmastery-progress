@@ -106,5 +106,14 @@
       "Great work creating a clone of a fork from Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1769190433.250852,
+    "completed_at": 1769190436.538189,
+    "comments": [
+      "Remote 'bob-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-bob"
+    ],
+    "status": "Incomplete"
   }
 ]
